@@ -31,3 +31,7 @@ Questions to ask yourself when conducting a code review.
 - Are log messages clear, concise, and professional?
 - Do they include all relevant and useful information?
 - Do they use the appropriate logging level?
+
+## Other References
+- [Code Review](https://github.com/lyst/MakingLyst/tree/master/code-reviews)
+- [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html)
